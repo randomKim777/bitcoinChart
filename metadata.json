@@ -1,0 +1,6 @@
+{
+  "name": "BitPulse",
+  "description": "국내(업비트) 및 해외(바이낸스) 실시간 비트코인 시세 비교 및 김치 프리미엄, 역사적 차트를 제공하는 프리미엄 크립토 대시보드 앱입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
